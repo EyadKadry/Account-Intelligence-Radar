@@ -1,0 +1,150 @@
+{
+  "company_identifiers": {
+    "name": "misraj ai",
+    "headquarters": "Riyadh, Saudi Arabia"
+  },
+  "business_snapshot": {
+    "business_units": [
+      {
+        "name": "Misraj System",
+        "description": "Everything you need for complete AI integration in one place.",
+        "source_url": "https://misraj.ai/en/system"
+      },
+      {
+        "name": "Workforces",
+        "description": "The first Arabic AI employee suite designed for enterprises and government institutions, providing AI agents capable of automating operations, customer service, compliance, and data analysis with a native understanding of Arabic.",
+        "source_url": "https://finance.yahoo.com/news/misraj-ai-introduces-workforces-first-130300538.html"
+      },
+      {
+        "name": "Adam Platform",
+        "description": "A fully integrated system specialized in da‘wah, guidance, and spiritual instruction.",
+        "source_url": "https://iadam.ai/"
+      },
+      {
+        "name": "Thka Platform",
+        "description": "An integrated platform aimed at building Arab awareness and educating it on modern technology and contemporary innovations.",
+        "source_url": "http://thka.ai/"
+      },
+      {
+        "name": "Kawn AI Ecosystem",
+        "description": "Includes large language models, vision-language models, embedding models, and RAG pipelines designed to understand Arabic.",
+        "source_url": "https://www.timesofai.com/news/misraj-ai-launches-kawn-new-arabic-first-ai-system/"
+      },
+      {
+        "name": "Enterprise Solutions",
+        "description": "A range of solutions designed to aid businesses in digital transformation and process automation.",
+        "source_url": "https://misraj.sa/services/enterprise-solutions"
+      }
+    ],
+    "products_services": [
+      {
+        "name": "Baseer",
+        "description": "A state-of-the-art Arabic document intelligence platform that converts complex Arabic PDFs and scans into structured, AI-ready data for enterprise automation and digital transformation; helps computers read scanned Arabic documents, converting them into clean, well-structured text.",
+        "source_url": "https://www.globenewswire.com/news-release/2025/12/04/3199752/0/en/Misraj-AI-Launches-Baseer-a-State-of-the-Art-Arabic-Document-Intelligence-Platform.html"
+      },
+      {
+        "name": "SeamlessAPI",
+        "description": "Provides developers an easy way to leverage Kawn for various tasks including translation and summarization.",
+        "source_url": "https://www.timesofai.com/news/misraj-ai-launches-kawn-new-arabic-first-ai-system/"
+      },
+      {
+        "name": "Arabic Language Models",
+        "description": "Advanced AI models specifically developed for the Arabic language, enabling deep understanding and generation of Arabic text.",
+        "source_url": "https://misraj.ai/en"
+      },
+      {
+        "name": "LLM",
+        "description": "Large Language Models, a core component of their AI offerings.",
+        "source_url": "https://misraj.ai/en"
+      },
+      {
+        "name": "Zero Plus",
+        "description": null,
+        "source_url": "https://misraj.ai/en"
+      },
+      {
+        "name": "Nova Platform",
+        "description": null,
+        "source_url": "https://misraj.ai/en"
+      }
+    ],
+    "target_industries": [
+      {
+        "name": "Governments",
+        "description": "Enabling governments to use AI with confidence, depth, and speed; providing AI employee suites for government institutions.",
+        "source_url": "https://misraj.ai/en"
+      },
+      {
+        "name": "Enterprises",
+        "description": "Empowering businesses to embark on their journey of digital transformation and process automation; providing AI employee suites for enterprises.",
+        "source_url": "https://misraj.ai/en"
+      },
+      {
+        "name": "Technology Sector",
+        "description": "Focused on creating an integrated ecosystem that enables organizations to leverage AI.",
+        "source_url": "https://misraj.ai/en"
+      }
+    ]
+  },
+  "leadership_signals": [
+    {
+      "name": "Safwan AlModhayan",
+      "title": "Founder",
+      "source_url": "https://www.globenewswire.com/news-release/2025/12/04/3199752/0/en/Misraj-AI-Launches-Baseer-a-State-of-the-Art-Arabic-Document-Intelligence-Platform.html"
+    }
+  ],
+  "strategic_initiatives": [
+    {
+      "name": "Baseer: Vision Language Model for Arabic Document to Markdown OCR",
+      "description": "Misraj’s Vision Language Model for Arabic Document to Markdown OCR, converting complex Arabic PDFs and scans into structured, AI-ready data.",
+      "source_url": "https://misraj.ai/en/blogs/baseer-arabic-document-ocr-vlm-misraj"
+    },
+    {
+      "name": "RAG and AI Agents",
+      "description": "Explaining the workings of Retrieval-Augmented Generation and AI agents for building context-aware, learning digital agents.",
+      "source_url": "https://misraj.ai/en/blogs/behind-the-buzzwords"
+    },
+    {
+      "name": "Monte Carlo Prediction & Temporal Difference Methodologies",
+      "description": "Exploring and developing advanced reinforcement learning techniques.",
+      "source_url": "https://misraj.ai/en/blogs/monte-carlo-prediction-and-temporal-difference"
+    },
+    {
+      "name": "Lahjawi Dialect Engine",
+      "description": "An AI engine capable of understanding more than a dozen Arabic dialects with high accuracy.",
+      "source_url": "https://www.timesofai.com/news/misraj-ai-launches-kawn-new-arabic-first-ai-system/"
+    },
+    {
+      "name": "Digital Transformation under Saudi Arabia’s Vision 2030",
+      "description": "Supporting digital transformation goals in the region and modernizing digital transformation across government and private sectors.",
+      "source_url": "https://www.globenewswire.com/news-release/2025/12/04/3199752/0/en/Misraj-AI-Launches-Baseer-a-State-of-the-Art-Arabic-Document-Intelligence-Platform.html"
+    },
+    {
+      "name": "AWS re:Invent 2025 Showcase",
+      "description": "Launch event for Baseer and the Workforces AI suite, demonstrating Misraj AI's technologies and solutions.",
+      "source_url": "https://finance.yahoo.com/news/misraj-ai-introduces-workforces-first-130300538.html"
+    },
+    {
+      "name": "Improved User Experience",
+      "description": "Enhance customer satisfaction and loyalty with personalized and seamless interactions through enterprise solutions.",
+      "source_url": "https://misraj.sa/en/services/enterprise-solutions"
+    },
+    {
+      "name": "Increased Efficiency",
+      "description": "Streamline processes and reduce operational costs for improved business performance through enterprise solutions.",
+      "source_url": "https://misraj.sa/en/services/enterprise-solutions"
+    },
+    {
+      "name": "Competitive Edge",
+      "description": "Stand out in the market with unique and differentiated customer experiences through enterprise solutions.",
+      "source_url": "https://misraj.sa/en/services/enterprise-solutions"
+    }
+  ],
+  "evidence": [
+    "https://misraj.ai/en",
+    "https://www.timesofai.com/news/misraj-ai-launches-kawn-new-arabic-first-ai-system/",
+    "https://www.globenewswire.com/news-release/2025/12/04/3199752/0/en/Misraj-AI-Launches-Baseer-a-State-of-the-Art-Arabic-Document-Intelligence-Platform.html",
+    "https://finance.yahoo.com/news/misraj-ai-introduces-workforces-first-130300538.html",
+    "https://misraj.sa/en/services/enterprise-solutions"
+  ]
+}

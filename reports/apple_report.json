@@ -1,0 +1,159 @@
+{
+  "company_identifiers": {
+    "name": "Apple",
+    "headquarters": "1 Apple Park Way, Cupertino, CA 95014, USA"
+  },
+  "business_snapshot": {
+    "business_units": [
+      "Apple Newsroom",
+      "Apple Enterprise",
+      "Apple Intelligence"
+    ],
+    "products_services": [
+      "MacBook Neo",
+      "iPhone 17e",
+      "MacBook Pro",
+      "MacBook Air",
+      "iPad Air",
+      "iPhone 17 Pro",
+      "Apple Watch Series 11",
+      "Apple Trade In",
+      "Carrier Deals",
+      "Apple Card"
+    ],
+    "target_industries": [
+      "Consumer",
+      "Enterprise"
+    ]
+  },
+  "leadership_signals": [
+    {
+      "name": "Tim Cook",
+      "title": "CEO",
+      "source_url": "https://www.apple.com/leadership/tim-cook/"
+    },
+    {
+      "name": "Greg Joswiak",
+      "title": "Senior Vice President, Worldwide Marketing",
+      "source_url": "https://www.apple.com/leadership/greg-joswiak/"
+    },
+    {
+      "name": "Deirdre O’Brien",
+      "title": "Senior Vice President, Retail + People",
+      "source_url": "https://www.apple.com/leadership/deirdre-obrien/"
+    }
+  ],
+  "strategic_initiatives": [
+    {
+      "name": "Security Enhancements",
+      "description": "iPhone and iPad approved to handle classified NATO information.",
+      "source_url": "https://www.apple.com/newsroom/2026/02/iphone-and-ipad-approved-to-handle-classified-nato-information/"
+    },
+    {
+      "name": "Increased Manufacturing",
+      "description": "Accelerates U.S. manufacturing with Mac mini production.",
+      "source_url": "https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/"
+    },
+    {
+      "name": "Security",
+      "description": "Kernel-level protection and secure systems to safeguard business data.",
+      "source_url": "https://www.apple.com/business/enterprise/resources/#security"
+    },
+    {
+      "name": "IT Management",
+      "description": "Built-in frameworks for easy device management across organizations.",
+      "source_url": "https://www.apple.com/business/enterprise/resources/#it"
+    },
+    {
+      "name": "Innovation",
+      "description": "Cutting-edge products and experiences that boost productivity and collaboration.",
+      "source_url": "https://www.apple.com/business/enterprise/resources/#innovation"
+    },
+    {
+      "name": "Productivity",
+      "description": "Apps and features designed to enhance productivity and efficiency in the workplace.",
+      "source_url": "https://www.apple.com/business/enterprise/resources/#productivity"
+    },
+    {
+      "name": "Value",
+      "description": "Smart investments with lower support costs and high trade-in value.",
+      "source_url": "https://www.apple.com/business/enterprise/resources/#value"
+    },
+    {
+      "name": "Services",
+      "description": "Comprehensive expert support at every step.",
+      "source_url": "https://www.apple.com/business/enterprise/resources/#services"
+    },
+    {
+      "name": "Privacy by Design",
+      "description": "Apple Intelligence is designed to protect user privacy at every step, utilizing on-device processing.",
+      "source_url": "https://www.apple.com/apple-intelligence/#privacy"
+    },
+    {
+      "name": "Accenture Apple Solutions",
+      "description": "Transforming business operations through Apple products to unlock new revenue streams.",
+      "source_url": "https://www.accenture.com/in-en/"
+    },
+    {
+      "name": "Deloitte EnterpriseNext",
+      "description": "Workshops and Value Maps to help businesses maximize the use of iPhone and iPad.",
+      "source_url": "https://www2.deloitte.com/apple.html"
+    },
+    {
+      "name": "IBM Garage and Systems",
+      "description": "Using the latest Apple development tools to help companies with custom mobile challenges.",
+      "source_url": "https://www.ibm.com/mobile/apple-partnership/"
+    },
+    {
+      "name": "Salesforce Mobile SDK",
+      "description": "Revolutionizing customer engagement on iPhone and iPad through advanced CRM.",
+      "source_url": "https://www.salesforce.com/campaign/apple/"
+    },
+    {
+      "name": "SAP Cloud Platform SDK",
+      "description": "Supporting businesses in rapidly building native apps for iOS and iPadOS.",
+      "source_url": "https://developer.apple.com/sap/"
+    },
+    {
+      "name": "Cisco Integration with Apple",
+      "description": "Optimizing the use of Apple devices on Cisco networks for enhanced collaboration and connectivity.",
+      "source_url": "https://www.cisco.com/c/m/en_us/solutions/global-partners/apple.html"
+    }
+  ],
+  "evidence": [
+    "https://www.accenture.com/in-en/",
+    "https://www.apple.com/",
+    "https://www.apple.com/apple-card/",
+    "https://www.apple.com/apple-intelligence/",
+    "https://www.apple.com/apple-intelligence/#privacy",
+    "https://www.apple.com/apple-watch-series-11/",
+    "https://www.apple.com/business/enterprise/",
+    "https://www.apple.com/business/enterprise/resources/#innovation",
+    "https://www.apple.com/business/enterprise/resources/#it",
+    "https://www.apple.com/business/enterprise/resources/#productivity",
+    "https://www.apple.com/business/enterprise/resources/#security",
+    "https://www.apple.com/business/enterprise/resources/#services",
+    "https://www.apple.com/business/enterprise/resources/#value",
+    "https://www.apple.com/in/business/enterprise/partners/",
+    "https://www.apple.com/ipad-air/",
+    "https://www.apple.com/iphone-17-pro/",
+    "https://www.apple.com/iphone-17e/",
+    "https://www.apple.com/leadership/",
+    "https://www.apple.com/leadership/deirdre-obrien/",
+    "https://www.apple.com/leadership/greg-joswiak/",
+    "https://www.apple.com/leadership/tim-cook/",
+    "https://www.apple.com/macbook-air/",
+    "https://www.apple.com/macbook-neo/",
+    "https://www.apple.com/macbook-pro/",
+    "https://www.apple.com/newsroom/",
+    "https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/",
+    "https://www.apple.com/newsroom/2026/02/iphone-and-ipad-approved-to-handle-classified-nato-information/",
+    "https://www.apple.com/us/shop/goto/buy_iphone/carrier_offers",
+    "https://www.apple.com/us/shop/goto/trade_in",
+    "https://www2.deloitte.com/apple.html",
+    "https://www.cisco.com/c/m/en_us/solutions/global-partners/apple.html",
+    "https://developer.apple.com/sap/",
+    "https://www.ibm.com/mobile/apple-partnership/",
+    "https://www.salesforce.com/campaign/apple/"
+  ]
+}
